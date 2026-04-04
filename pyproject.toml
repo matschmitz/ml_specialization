@@ -2,4 +2,9 @@
 name = "ml_specialization"
 version = "0.1.0"
 requires-python = ">= 3.13.7"
-dependencies = []
+dependencies = [
+    "matplotlib",
+    "pandas",
+    "scikit-learn",
+    "numpy"
+]
